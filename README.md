@@ -7,6 +7,4 @@ Reach out to me on my LinkedIn: https://www.linkedin.com/in/mvivianb/
 
 
 ### My Top Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/vivianbirungi1/github-readme-stats)
-
 ![image](https://user-images.githubusercontent.com/48013221/156943906-6b3216e9-571d-401f-b21e-cc271ddf91be.png)
