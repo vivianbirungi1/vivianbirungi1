@@ -37,3 +37,6 @@ The Spotify Recommender System uses a Nearest Neighbour algorithm to predict son
 
 ### Connect with me on LinkedIn!
 https://www.linkedin.com/in/mvivianb/
+
+### Alternative online GitHub portfolio:
+http://isradeleon.com/github-portfolio.html?user=vivianbirungi1#top
