@@ -25,7 +25,7 @@ https://college-vue-viv-94519.web.app/
 ![image](https://user-images.githubusercontent.com/48013221/156958316-2f3cbae9-c938-4efa-96c3-2e69e5b66f94.png)
 
 #### 3.
-My AceMedBay project and Advanced JavaScript CA2 project both provided me with the knowledge and skills of using the MERN stack and becoming a full stack developer.
+My AceMedBay project and Advanced JavaScript CA2 project both provided me with the knowledge and skills of becoming a full stack developer.
 
 The Advanced JavaScript CA2 project is also available to be viewed as it is hosted using Heroku. The following is link to the site and below is a screenshot example:
 https://viv-restaurants-react.web.app/
