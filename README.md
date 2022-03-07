@@ -1,7 +1,7 @@
 ### Hi, I'm Vivian Birungi 👋
 
 Pronouns: She/Her.
-I am a final year student in Creative Computing (BSc Hons) in IADT. I am interested in UX design and have experience in various coding languages such as HTML, CSS, PHP, Python and JavaScript. I am currently working on  creating a Text to Speech application that aims to help all users and I am using JavaScript for this project.
+I am a final year student in Creative Computing (BSc Hons) in IADT. I am interested in UX design and have experience in various coding languages such as HTML, CSS, PHP, Python and JavaScript. I am currently working on creating a Text to Speech application using JavaScript, HTML and CSS that aims to help ease daily tasks for users.
 
 Reach out to me on my LinkedIn: https://www.linkedin.com/in/mvivianb/
 
