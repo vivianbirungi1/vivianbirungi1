@@ -5,7 +5,7 @@ I am a final year student in Creative Computing (BSc Hons) in IADT. I am interes
 
 Reach out to me on my LinkedIn: https://www.linkedin.com/in/mvivianb/
 
-Check out my UX Design portfolio: https://vivianbirungiportfolio.wordpress.com/ 
+Check out my Design portfolio: https://vivianbirungiportfolio.wordpress.com/ 
 
 ### My Top Used Languages
 ![image](https://user-images.githubusercontent.com/48013221/156943906-6b3216e9-571d-401f-b21e-cc271ddf91be.png)
