@@ -18,7 +18,8 @@ My research process for this project can be found on Miro:
 https://miro.com/app/board/uXjVOVU0Yzc=/?invite_link_id=108941533256
 
 Here is a screenshot example of the application:
-![image](https://user-images.githubusercontent.com/48013221/156958628-76b660d2-dc65-4e11-83f4-16672c814fe6.png)
+![image](https://user-images.githubusercontent.com/48013221/167900655-875c25f1-bc71-4eaa-9b60-d623163d4e0c.png)
+
 
 #### 2.
 The College Vue project is available to view as it is hosted using Firebase. The following is link to the site and below is a screenshot example:
